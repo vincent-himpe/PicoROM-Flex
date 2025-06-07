@@ -28,3 +28,5 @@ fp-info-cache
 
 build/
 .cache/
+/PicoRom-Flex/CAD/PicoRom-Flex/History
+/PicoRom-Flex/CAD/__Previews
