@@ -50,23 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=PicoROM.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SNIFFYLV
-
-[Document2]
 DocumentPath=PicoROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +66,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWBJJLXP
 
-[Document3]
+[Document2]
 DocumentPath=PicoROM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZTXRDXDK
 
-[Document4]
+[Document3]
 DocumentPath=2716-2736.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,28 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEXMIOQA
 
+[Document4]
+DocumentPath=PICOROM-Flex.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BNYEWFUP
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for PicoRom-Flex\Design Rule Check - PICOROM-Flex.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for PicoRom-Flex\Design Rule Check - PicoROM.html
 DItemRevisionGUID=
 
